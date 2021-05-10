@@ -1,9 +1,8 @@
 # Surfs Up!
 ## Overview:
-### Purpose
-The purpose of this analysis is to help W. Avy determine if it weather would permit an ice cream surf shop to be viable year-ruond in Oahu, Hawaii. W. Avy wanted to take a closer look at temperatures during the months of June and December, to get a better idea what the extreme months would look like for the ice cream surf shop.
+The purpose of this analysis is to help W. Avy determine if weather would permit an ice cream surf shop to be viable year-ruond in Oahu, Hawaii. W. Avy wanted to take a closer look at temperatures during the months of June and December, to get a better idea what the extreme months would look like for the ice cream surf shop.
 
-##Results:
+## Results:
   - Average Temperatures:
   -  - June: 74.9°F
   -  - December: 71.0°F
