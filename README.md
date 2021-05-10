@@ -16,20 +16,5 @@ The purpose of this analysis is to help W. Avy determine if it weather would per
  
 ![June Statistics](/resources/june_df.png) ![December Statistics](resources/december_df.png)
 
-Upon closer inspection, there is not much variance between June and December. The average temperature in June is 74.9°F, whereas the average temperature in December is 71.0°F. I did notice that the rance of temperatures is slightly wider for the month of December (56°F-83°F) vs June (64°F-85°F).
-
-
-
-
-
-There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
-Summary:
-
-
-
-
-
-
-There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)
-
- The weather may be less predictable in December, and sales may decline if the temperature is 56F for the day. Although, I don't think that the few cooler days during December will have much off an impact on the overall numbers for the year.
+## Summary:
+Upon closer inspection, there is not much variance between June and December seasons. The average temperature in June is 74.9°F, whereas the average temperature in December is 71.0°F. I did notice that the range of temperatures is wider for the month of December (56°F-83°F) vs June (64°F-85°F). While max temperature in June is only 2°F warmer, the minimum in December is 8°F cooler. December has a higher standard deviation, so the weather may be less predictable. I would imagine the few colder days that you may see in December might have an impact on sales, but with the averages being so close; I don't think that the number of cool December days will have a large impact on overall annual sales. I would be interested to complete the same analysis on the precipitation for June and December. I think that the precipitation has a *lot* to do with the stable temperatures year-round, and would be curious to see if there are spikes during the summer or lulls during the winter that could affect minimum temperature ranges.
