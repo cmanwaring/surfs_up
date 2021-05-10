@@ -13,7 +13,7 @@ The purpose of this analysis is to help W. Avy determine if weather would permit
      - June: 1700
      - December: 1517  
 
-June:---------------December:  
+June:----------------December:  
 ![June Statistics](/resources/june_df.png) ![December Statistics](resources/december_df.png)
 
 ## Summary:
