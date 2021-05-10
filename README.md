@@ -14,7 +14,7 @@ The purpose of this analysis is to help W. Avy determine if it weather would per
   -  - June: 1700
   -  - December: 1517
  
-![June Statistics](/resources/june_df) ![December Statistics](resources/december_df)
+![June Statistics](/resources/june_df.png) ![December Statistics](resources/december_df.png)
 
 Upon closer inspection, there is not much variance between June and December. The average temperature in June is 74.9°F, whereas the average temperature in December is 71.0°F. I did notice that the rance of temperatures is slightly wider for the month of December (56°F-83°F) vs June (64°F-85°F).
 
