@@ -4,14 +4,14 @@ The purpose of this analysis is to help W. Avy determine if weather would permit
 
 ## Results:
   - Average Temperatures:
-  -  - June: 74.9°F
-  -  - December: 71.0°F
+     - June: 74.9°F
+     - December: 71.0°F
   - Standard Deviation:
-  -  - June: 3.26
-  -  - December: 3.75
+     - June: 3.26
+     - December: 3.75
   - Count:
-  -  - June: 1700
-  -  - December: 1517
+     - June: 1700
+     - December: 1517
  
 ![June Statistics](/resources/june_df.png) ![December Statistics](resources/december_df.png)
 
